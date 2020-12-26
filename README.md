@@ -1,6 +1,6 @@
 # Ludovic BOCKEN, PhDs (c)
 
-_Research & Development
+_R & D in Artificial Intelligence, Machine Learning, Data Science, Natural Language Processing
 
 [Email](mailto:lbocken@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ludovicbocken/) / [GitHub](https://github.com/lbocken) / [Resume](https://lbocken.github.io/resume/)
 
