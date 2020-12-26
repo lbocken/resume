@@ -6,6 +6,7 @@ _Research & Development
 
 ## Education
 *Master (Licence) in Linguistics*
+
 *Bachelor in Philosophy*
 
 ## Experience
