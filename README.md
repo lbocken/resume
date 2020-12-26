@@ -18,8 +18,11 @@ _R & D in Artificial Intelligence, Machine Learning, Data Science, Natural Langu
     
 ## Education
 **PhD in Cognitive Computing** @ Université du Québec (TELUQ) - Université du Québec à Montréal (UQAM)
+
 **PhD in Natural Language Processing** @ Université de Franche Comté (UFC)
+
 **Master (Licence) in Linguistics** @ Université Libre de Bruxelles
+
 **Training for Higher Education CAPAES in Communication** @ Université Libre de Bruxelles
 
 *Master (Licence) in Linguistics* @ Université Libre de Bruxelles
