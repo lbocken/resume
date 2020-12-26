@@ -6,7 +6,7 @@ _R & D in Artificial Intelligence, Machine Learning, Data Science, Natural Langu
 
 ## Core Technical Skills
 
-*Programming languages* mainly : R, Python, C++ ; also : Java, Visual Basic, Perl, Prolog, LISP
+**Programming languages** mainly : R, Python, C++ ; also : Java, Visual Basic, Perl, Prolog, LISP
 
 *Markup languages* HTML, XML, json, AIML
 
