@@ -17,9 +17,11 @@ _R & D in Artificial Intelligence, Machine Learning, Data Science, Natural Langu
 *Semantic Reasoners* Pellet, RacerPro, FaCT++, HermiT
     
 ## Education
-*Master (Licence) in Linguistics*
+*PhD in Cognitive Computing* @ TELUQ
 
-*Bachelor in Philosophy*
+*Master (Licence) in Linguistics* @ Université Libre de Bruxelles
+
+*Bachelor in Philosophy* @ Université Catholique de Louvain
 
 ## Experience
 
