@@ -4,8 +4,8 @@ _Research & Development
 
 [Email](mailto:lbocken@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ludovicbocken/) / [GitHub](https://github.com/lbocken)
 
-# Education
+## Education
 
-# Experience
+## Experience
 
-# Projects
+## Projects
