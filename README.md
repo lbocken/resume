@@ -7,9 +7,13 @@ _Research & Development
 ## Core Technical Skills
 
 *Programming languages* mainly : R, Python, C++ ; also : Java, Visual Basic, Perl, Prolog, LISP
+
 *Markup languages* HTML, XML, json, AIML
+
 *Semantic Web languages* RDF, OWL
+
 *Query languages* SQL, SPARQL
+
 *Semantic Reasoners* Pellet, RacerPro, FaCT++, HermiT
     
 ## Education
