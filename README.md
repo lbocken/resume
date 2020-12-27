@@ -124,13 +124,13 @@ also :
 
 2014, How Wikipedia can help you to read a scientific article? Predictions for the Semantic Web according to Fuzzy Probabilistic Epistemic Models. In *Cognitive Computing Conference and in Web Science and the Mind, Summer School in Cognitive sciences at UQAM*.
 
-2014, Morphological and syntactic grammars of scientific titles for cognitive computing applications. In \textit{International NooJ Conference 2014}.
+2014, Morphological and syntactic grammars of scientific titles for cognitive computing applications. In *International NooJ Conference 2014*.
 
-2014, Recommendations and reading assistance with Wikipedia Concept Table: deductive inference and cognitive complexity metrics. In \textit{82e Congrès de l'ACFAS, Colloque 627 - Environnements numériques d’apprentissage, tuteurs intelligents et jeux sérieux}.
+2014, Recommendations and reading assistance with Wikipedia Concept Table: deductive inference and cognitive complexity metrics. In *82e Congrès de l'ACFAS, Colloque 627 - Environnements numériques d’apprentissage, tuteurs intelligents et jeux sérieux*.
 
-2014, Augmented reading with Wikipedia Concept Table: computing, linguistic, and cognitive models. In \textit{82e Congrès de l'ACFAS, Colloque 635 - Langues Naturelles, Informatique et Sciences Cognitives}.
+2014, Augmented reading with Wikipedia Concept Table: computing, linguistic, and cognitive models. In *82e Congrès de l'ACFAS, Colloque 635 - Langues Naturelles, Informatique et Sciences Cognitives*.
 
-2014, A unified model to compute quality of titles. In \textit{Scientific Day of the Centre of Research for Brain Language and Music}.
+2014, A unified model to compute quality of titles. In *Scientific Day of the Centre of Research for Brain Language and Music*.
 
 ### Research works
 2010, Uses and perspectives of concept maps and modeling in FLE for higher education learners, Thesis at the Free University of Brussels - Faculties of Philosophy and Letters.
