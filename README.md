@@ -180,9 +180,15 @@ also :
 ## Interests
 **Triathlon** super sprint distance :	swimming (250 m) - biking (6,5 km) - running (1,7 km)
 
-**Drums** My favorite drummers : Stéphane Galland, Dennis Chambers, Dave Weckl
+**Drums** My favorite drummers : 
+[Stéphane Galland](https://en.wikipedia.org/wiki/St%C3%A9phane_Galland), 
+[Dennis Chambers](https://en.wikipedia.org/wiki/Dennis_Chambers), 
+[Dave Weckl](https://en.wikipedia.org/wiki/Dave_Weckl)
 
-**Cinéma** My favorite actors : Daniel Day-Lewis, Léonardo Di Caprio, Colin Firth
+**Cinéma** My favorite actors : 
+[Daniel Day-Lewis](https://en.wikipedia.org/wiki/Daniel_Day-Lewis), 
+[Léonardo Di Caprio](https://en.wikipedia.org/wiki/Leonardo_DiCaprio), 
+[Colin Firth](https://en.wikipedia.org/wiki/Colin_Firth)
 
 ## Recommendations from LinkedIn
 
