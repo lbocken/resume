@@ -114,15 +114,15 @@ also :
 
 ## Scientific communications
 ### Conferences
-2017, Textual Complexity Metrics Applications for Wikipedia Quality Control by Classifications. Dans \textit{Cognitive computing conference (UQAM)}.
+2017, Textual Complexity Metrics Applications for Wikipedia Quality Control by Classifications. Dans *Cognitive computing conference (UQAM)*.
 
-2016, Functional modeling of the utility of Wikipedia in the acquisition of concepts from texts. Dans \textit{Scientific Day of LICEF}.
+2016, Functional modeling of the utility of Wikipedia in the acquisition of concepts from texts. Dans *Scientific Day of LICEF*.
 
-2016, Wikipedia, a building providing access to (non) expert information: a legal ontological analogy in a situation of uncertainty. Dans \textit{Cognitive computing Seminar at UQAM}.
+2016, Wikipedia, a building providing access to (non) expert information: a legal ontological analogy in a situation of uncertainty. Dans *Cognitive computing Seminar at UQAM*.
 
-2015, Recommendation of Wikipedia articles when reading PLoS scientific texts. Dans \textit{LANCI workshop}.
+2015, Recommendation of Wikipedia articles when reading PLoS scientific texts. Dans *LANCI workshop*.
 
-2014, How Wikipedia can help you to read a scientific article? Predictions for the Semantic Web according to Fuzzy Probabilistic Epistemic Models. Dans \textit{Cognitive Computing Conference and in Web Science and the Mind, Summer School in Cognitive sciences at UQAM}.
+2014, How Wikipedia can help you to read a scientific article? Predictions for the Semantic Web according to Fuzzy Probabilistic Epistemic Models. Dans *Cognitive Computing Conference and in Web Science and the Mind, Summer School in Cognitive sciences at UQAM*.
 
 2014, Morphological and syntactic grammars of scientific titles for cognitive computing applications. Dans \textit{International NooJ Conference 2014}.
 
