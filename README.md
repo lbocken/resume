@@ -53,7 +53,7 @@ also :
 [Microsoft Excel](https://en.wikipedia.org/wiki/Microsoft_Excel),
 [NooJ](https://en.wikipedia.org/wiki/NooJ),
 [Praat](https://en.wikipedia.org/wiki/Praat),
-[Texstudio](https://en.wikipedia.org/wiki/TeXstudio)
+[TeXstudio](https://en.wikipedia.org/wiki/TeXstudio)
     
 ## Experience
 
@@ -107,17 +107,17 @@ also :
 **Commercial Attaché / Seller / Telemarketing** @ *Easydentic*, *Simply Better*, *Hamburg Manheimer*, *Canal+/BeTV*, *Phonecom* <1998 - 2004>
 
 ## Education
-**PhD** in [Cognitive Computing](https://en.wikipedia.org/wiki/Cognitive_computing) @ [Université TELUQ](https://en.wikipedia.org/wiki/Universit%C3%A9_T%C3%89LUQ) & [Université du Québec à Montréal (UQAM)](https://en.wikipedia.org/wiki/Universit%C3%A9_du_Qu%C3%A9bec_%C3%A0_Montr%C3%A9al)
+**PhD** in [Cognitive Computing](https://en.wikipedia.org/wiki/Cognitive_computing) @ [Université TELUQ](https://en.wikipedia.org/wiki/Universit%C3%A9_T%C3%89LUQ) & [Université du Québec à Montréal (UQAM)](https://en.wikipedia.org/wiki/Universit%C3%A9_du_Qu%C3%A9bec_%C3%A0_Montr%C3%A9al) - 3.86
 
 **PhD** in [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing) @ [Université de Franche-Comté (UFC)](https://en.wikipedia.org/wiki/University_of_Franche-Comt%C3%A9)
 
-**Master (Licence)** in [French As Foreign Language](https://en.wikipedia.org/wiki/Fran%C3%A7ais_langue_%C3%A9trang%C3%A8re) @ [Université Libre de Bruxelles (ULB)](https://en.wikipedia.org/wiki/Universit%C3%A9_libre_de_Bruxelles)
+**Master (Licence)** in [French As Foreign Language](https://en.wikipedia.org/wiki/Fran%C3%A7ais_langue_%C3%A9trang%C3%A8re) @ [Université Libre de Bruxelles (ULB)](https://en.wikipedia.org/wiki/Universit%C3%A9_libre_de_Bruxelles) - High Distinction
 
 **Training for Higher Education CAPAES** in [Communication](https://en.wikipedia.org/wiki/Communication) @ [Université Libre de Bruxelles (ULB)](https://en.wikipedia.org/wiki/Universit%C3%A9_libre_de_Bruxelles)
 
-**Master (Licence)** in [Linguistics](https://en.wikipedia.org/wiki/Linguistics) @ [Université Libre de Bruxelles (ULB)](https://en.wikipedia.org/wiki/Universit%C3%A9_libre_de_Bruxelles)
+**Master (Licence)** in [Linguistics](https://en.wikipedia.org/wiki/Linguistics) @ [Université Libre de Bruxelles (ULB)](https://en.wikipedia.org/wiki/Universit%C3%A9_libre_de_Bruxelles) - Distinction
 
-**Bachelor** in [Philosophy](https://en.wikipedia.org/wiki/Philosophy) @ [Université Catholique de Louvain (UCL)](https://en.wikipedia.org/wiki/Universit%C3%A9_catholique_de_Louvain)
+**Bachelor** in [Philosophy](https://en.wikipedia.org/wiki/Philosophy) @ [Université Catholique de Louvain (UCL)](https://en.wikipedia.org/wiki/Universit%C3%A9_catholique_de_Louvain) - Distinction in the first year
 
 ## Projects
 **triki.com** : Triangular combinatorial metrics for machine learning and automated reasoning in Wikipedia
