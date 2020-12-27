@@ -87,6 +87,12 @@ also :
 [Management](https://en.wikipedia.org/wiki/Management)
 @ *myRide*, *explorance*, *iWintoo* <2020 - present>
 
+**PhD Fellowships** @ 
+[Fonds de recherche du Québec - Société et culture (FRQSC)](http://www.frqsc.gouv.qc.ca/en/),
+[Université TELUQ](https://en.wikipedia.org/wiki/Universit%C3%A9_T%C3%89LUQ),
+[Université du Québec à Montréal (UQAM)](https://en.wikipedia.org/wiki/Universit%C3%A9_du_Qu%C3%A9bec_%C3%A0_Montr%C3%A9al)
+<2015>
+
 **French as Foreign Language Teacher** @ 
 [Université Lille 1 - Sciences et technologies > Centre université économie d'éducation permanente (CUEEP)](https://en.wikipedia.org/wiki/Lille_University_of_Science_and_Technology), 
 [Université Libre de Bruxelles](https://en.wikipedia.org/wiki/Universit%C3%A9_libre_de_Bruxelles),
