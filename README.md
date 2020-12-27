@@ -5,9 +5,10 @@ _R & D in Artificial Intelligence, Machine Learning, Data Science, Natural Langu
 [Email](mailto:lbocken@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ludovicbocken/) / [GitHub](https://github.com/lbocken) / [Resume](https://lbocken.github.io/resume/)
 
 ## Core Technical Skills
+[R](https://en.wikipedia.org/wiki/R_(programming_language)
 
 **Programming languages** mainly : 
-[R](https://en.wikipedia.org/wiki/R_(programming_language)
+
 , *Python*, *C++* ; also : *Java*, *Visual Basic*, *Perl*, *Prolog*, *Haskell*, *LISP*
 
 **Markup languages** *HTML*, *XML*, *json*, *AIML*
