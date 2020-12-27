@@ -6,17 +6,17 @@ _R & D in Artificial Intelligence, Machine Learning, Data Science, Natural Langu
 
 ## Core Technical Skills
 
-**Programming languages** mainly : R, Python, C++ ; also : Java, Visual Basic, Perl, Prolog, LISP
+**Programming languages** mainly : *R*, *Python*, *C++* ; also : *Java*, *Visual Basic*, *Perl*, *Prolog*, *Haskell*, *LISP*
 
-**Markup languages** HTML, XML, json, AIML
+**Markup languages** *HTML*, *XML*, *json*, *AIML*
 
-**Semantic Web languages** RDF, OWL
+**Semantic Web languages** *RDF*, *OWL*
 
-**Query languages** SQL, SPARQL
+**Query languages** *SQL, *SPARQL*
 
-**Semantic Reasoners** Pellet, RacerPro, FaCT++, HermiT
+**Semantic Reasoners** *Pellet*, *RacerPro*, *FaCT++*, *HermiT*
 
-**Softwares** Excel, NooJ, Praat 
+**Softwares** *Excel*, *NooJ*, *Praat*
     
 ## Education
 **PhD in Cognitive Computing** @ *Université du Québec (TELUQ)* - *Université du Québec à Montréal (UQAM)*
@@ -40,7 +40,7 @@ _R & D in Artificial Intelligence, Machine Learning, Data Science, Natural Langu
 
 **Assistant Professor (Maître Assistant)** @ *Pôle Académique Bruxelles > Haute Ecole Libre de Bruxelles (HELB) - Ilya Prigogine > Public Relations / Management Informatics*
 
-**Inventor** - Knowledge Management ; Biomechanics (Stretching Machine) <2000 - Present>
+**Inventor** *Knowledge Management* ; *Biomechanics (Stretching Machine)* <2000 - Present>
 
 **Commercial Attaché / Seller / Telemarketing** @ *Easydentic*, *Simply Better*, *Hamburg Manheimer*, *Canal+/BeTV*, *Phonecom* <1998 - 2004>
 
