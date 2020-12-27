@@ -87,11 +87,20 @@ also :
 [Management](https://en.wikipedia.org/wiki/Management)
 @ *myRide*, *explorance*, *iWintoo* <2020 - present>
 
-**E-learning Webmaster** of [Moodle](https://en.wikipedia.org/wiki/Moodle) [Learning Management Systems](https://en.wikipedia.org/wiki/Learning_management_system) @ *Pôle Académique Bruxelles > Haute Ecole Libre de Bruxelles (HELB) - Ilya Prigogine > Public Relations / Management Informatics*
+**French as Foreign Language Teacher** @ 
+[Université Lille 1 - Sciences et technologies > Centre université économie d'éducation permanente (CUEEP)](https://en.wikipedia.org/wiki/Lille_University_of_Science_and_Technology), 
+[Université Libre de Bruxelles](https://en.wikipedia.org/wiki/Universit%C3%A9_libre_de_Bruxelles),
+[F9 Languages](https://www.f9languages.eu/?lang=en),
+[Global-LT](https://global-lt.com/), 
+[Cartus](https://www.cartus.com/en/),
+[Pôle Académique Bruxelles > Haute Ecole Libre de Bruxelles (HELB) - Ilya Prigogine > Centre de Recherches et d'Etudes appliquées (CREA)](https://www.crea-helb.be/)
+<2008 - present>
 
-**Project Manager** @ *Pôle Académique Bruxelles > Haute Ecole Libre de Bruxelles (HELB) - Ilya Prigogine > Public Relations / Management Informatics*
+**E-learning Webmaster** of [Moodle](https://en.wikipedia.org/wiki/Moodle) [Learning Management Systems](https://en.wikipedia.org/wiki/Learning_management_system) @ *Pôle Académique Bruxelles > Haute Ecole Libre de Bruxelles (HELB) - Ilya Prigogine > Public Relations / Management Informatics* <2009-2011>
 
-**Assistant Professor (Maître Assistant)** @ *Pôle Académique Bruxelles > Haute Ecole Libre de Bruxelles (HELB) - Ilya Prigogine > [Public Relations](https://en.wikipedia.org/wiki/Public_relations) / Management Informatics > Courses : Communication in French language ; Methodologies ; Theories of commmunication ; Interpersonal relationships*
+**Project Manager** @ *Pôle Académique Bruxelles > Haute Ecole Libre de Bruxelles (HELB) - Ilya Prigogine > Public Relations / Management Informatics* <2008-2011>
+
+**Assistant Professor (Maître Assistant)** @ *Pôle Académique Bruxelles > Haute Ecole Libre de Bruxelles (HELB) - Ilya Prigogine > [Public Relations](https://en.wikipedia.org/wiki/Public_relations) / Management Informatics > Courses : Communication in French language ; Methodologies ; Theories of commmunication ; Interpersonal relationships* <2007-2011>
 
 **Researcher & Inventor** in [Reading comprehension](https://en.wikipedia.org/wiki/Reading_comprehension), [Biomechanics](https://en.wikipedia.org/wiki/Biomechanics) ([Stretching](https://en.wikipedia.org/wiki/Stretching) Machines), [Knowledge Management](https://en.wikipedia.org/wiki/Knowledge_management) <2000 - Present>
 
