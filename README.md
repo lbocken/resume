@@ -57,9 +57,29 @@ also :
     
 ## Experience
 
-**Author** - @ *Packt*, *O'Reilly*, *Manning*, *APress*, *Springer* <2020 - Present>
+**Author** in
+[Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence),
+[Cognitive computing](https://en.wikipedia.org/wiki/Cognitive_computing), 
+[Machine Learning](https://en.wikipedia.org/wiki/Machine_learning), 
+[Data Science](https://en.wikipedia.org/wiki/Data_science), 
+[Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing),
+[Natural Language Understanding](https://en.wikipedia.org/wiki/Natural-language_understanding),
+[Epistemology](https://en.wikipedia.org/wiki/Epistemology),
+[Epistemic logic](https://en.wikipedia.org/wiki/Epistemic_modal_logic),
+[Management](https://en.wikipedia.org/wiki/Management)
+@ *Packt*, *O'Reilly*, *Manning*, *APress*, *Springer* <2020 - Present>
 
-**Consultant** @ *myRide*, *explorance*, *iWintoo* <2020 - present>
+**Consultant** in
+[Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence),
+[Cognitive computing](https://en.wikipedia.org/wiki/Cognitive_computing), 
+[Machine Learning](https://en.wikipedia.org/wiki/Machine_learning), 
+[Data Science](https://en.wikipedia.org/wiki/Data_science), 
+[Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing),
+[Natural Language Understanding](https://en.wikipedia.org/wiki/Natural-language_understanding),
+[Epistemology](https://en.wikipedia.org/wiki/Epistemology),
+[Epistemic logic](https://en.wikipedia.org/wiki/Epistemic_modal_logic),
+[Management](https://en.wikipedia.org/wiki/Management)
+@ *myRide*, *explorance*, *iWintoo* <2020 - present>
 
 **E-learning Webmaster** of [Moodle](https://en.wikipedia.org/wiki/Moodle) [Learning Management Systems](https://en.wikipedia.org/wiki/Learning_management_system) @ *Pôle Académique Bruxelles > Haute Ecole Libre de Bruxelles (HELB) - Ilya Prigogine > Public Relations / Management Informatics*
 
