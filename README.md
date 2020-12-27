@@ -112,13 +112,21 @@ also :
 
 ## Projects
 triki.com : Triangular combinatorial metrics for machine learning and automated reasoning in Wikipedia
+
 buter.com : An artificial contradictor chatbot for augmented reasoning
+
 miti.com : Machine translation and generation of english questions in SPARQL queries for Wikidata and Wikipedia
+
 recoft.com : A recommender system of software resources from texts
-financer.com : Financial analyses from open data and texts (sentiment analysis, knowledge extraction, classification)} 
+
+financer.com : Financial analyses from open data and texts (sentiment analysis, knowledge extraction, classification)
+
 oldnews.com : Modeling, clustering, classification, ranking and interpretation of historical events
+
 en.wikipedia.com : The best informations for Business in English Wikipedia
+
 en.wikipedia.ca, en.wikipedia.eu : Structured informations for geographical region in English Wikipedia
+
 en.wikipedia.eu : Structured informations about Europe and europeans from English Wikipedia
 
 
