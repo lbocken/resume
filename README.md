@@ -32,14 +32,19 @@ _R & D in Artificial Intelligence, Machine Learning, Data Science, Natural Langu
 **Bachelor in Philosophy** @ *Université Catholique de Louvain (UCL)*
 
 ## Experience
-**Consultant** @ *myRide*, *explorance*
 
-**Author** - @ Packt, O'Reilly, Manning, APress
+**Author** - @ *Packt*, *O'Reilly*, *Manning*, *APress*, *Springer* (2020 - Present)
 
-**Inventor** - Knowledge Management ; Biomechanics (Stretching Machine)
+**Consultant** @ *myRide*, *explorance*, *iWintoo* (2020 - present)
+
+**Inventor** - Knowledge Management ; Biomechanics (Stretching Machine) <2000 - Present>
 
 **Assistant Professor (Maître Assistant)** @ *Pôle Académique Bruxelles (Haute Ecole Libre de Bruxelles (HELB) - Ilya Prigogine*
 
 **Commercial Attaché / Seller** @ *Easydentic*, *Simply Better*, *Hamburg Manheimer*, *Canal+/BeTV* 
 
 ## Projects
+
+## Scientific communications
+
+## Supervised works and projects
