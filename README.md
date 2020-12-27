@@ -40,7 +40,7 @@ also :
 [Resource Description Framework (RDF)](https://en.wikipedia.org/wiki/Resource_Description_Framework),
 [Web Ontology Language (OWL)](https://en.wikipedia.org/wiki/Web_Ontology_Language).
 
-**(Query languages)[https://en.wikipedia.org/wiki/Query_language]**
+(**Query languages**)[https://en.wikipedia.org/wiki/Query_language]
 [Structured Query Language (SQL)](https://en.wikipedia.org/wiki/SQL),
 [SPARQL Protocol and RDF Query Language](https://en.wikipedia.org/wiki/SPARQL).
 
