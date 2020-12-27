@@ -114,23 +114,23 @@ also :
 
 ## Scientific communications
 ### Conferences
-2017, Textual Complexity Metrics Applications for Wikipedia Quality Control by Classifications. Dans *Cognitive computing conference (UQAM)*.
+2017, Textual Complexity Metrics Applications for Wikipedia Quality Control by Classifications. In *Cognitive computing conference (UQAM)*.
 
-2016, Functional modeling of the utility of Wikipedia in the acquisition of concepts from texts. Dans *Scientific Day of LICEF*.
+2016, Functional modeling of the utility of Wikipedia in the acquisition of concepts from texts. In *Scientific Day of LICEF*.
 
-2016, Wikipedia, a building providing access to (non) expert information: a legal ontological analogy in a situation of uncertainty. Dans *Cognitive computing Seminar at UQAM*.
+2016, Wikipedia, a building providing access to (non) expert information: a legal ontological analogy in a situation of uncertainty. In *Cognitive computing Seminar at UQAM*.
 
-2015, Recommendation of Wikipedia articles when reading PLoS scientific texts. Dans *LANCI workshop*.
+2015, Recommendation of Wikipedia articles when reading PLoS scientific texts. In *LANCI workshop*.
 
-2014, How Wikipedia can help you to read a scientific article? Predictions for the Semantic Web according to Fuzzy Probabilistic Epistemic Models. Dans *Cognitive Computing Conference and in Web Science and the Mind, Summer School in Cognitive sciences at UQAM*.
+2014, How Wikipedia can help you to read a scientific article? Predictions for the Semantic Web according to Fuzzy Probabilistic Epistemic Models. In *Cognitive Computing Conference and in Web Science and the Mind, Summer School in Cognitive sciences at UQAM*.
 
-2014, Morphological and syntactic grammars of scientific titles for cognitive computing applications. Dans \textit{International NooJ Conference 2014}.
+2014, Morphological and syntactic grammars of scientific titles for cognitive computing applications. In \textit{International NooJ Conference 2014}.
 
-2014, Recommendations and reading assistance with Wikipedia Concept Table: deductive inference and cognitive complexity metrics. Dans \textit{82e Congrès de l'ACFAS, Colloque 627 - Environnements numériques d’apprentissage, tuteurs intelligents et jeux sérieux}.
+2014, Recommendations and reading assistance with Wikipedia Concept Table: deductive inference and cognitive complexity metrics. In \textit{82e Congrès de l'ACFAS, Colloque 627 - Environnements numériques d’apprentissage, tuteurs intelligents et jeux sérieux}.
 
-2014, Augmented reading with Wikipedia Concept Table: computing, linguistic, and cognitive models. Dans \textit{82e Congrès de l'ACFAS, Colloque 635 - Langues Naturelles, Informatique et Sciences Cognitives}.
+2014, Augmented reading with Wikipedia Concept Table: computing, linguistic, and cognitive models. In \textit{82e Congrès de l'ACFAS, Colloque 635 - Langues Naturelles, Informatique et Sciences Cognitives}.
 
-2014, A unified model to compute quality of titles. Dans \textit{Scientific Day of the Centre of Research for Brain Language and Music}.
+2014, A unified model to compute quality of titles. In \textit{Scientific Day of the Centre of Research for Brain Language and Music}.
 
 ### Research works
 2010, Uses and perspectives of concept maps and modeling in FLE for higher education learners, Thesis at the Free University of Brussels - Faculties of Philosophy and Letters.
