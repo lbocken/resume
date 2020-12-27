@@ -2,7 +2,7 @@
 
 _R & D in Artificial Intelligence, Machine Learning, Data Science, Natural Language Processing
 
-[R](https://en.wikipedia.org/wiki/R_(programming_language)
+[R](https://en.wikipedia.org/wiki/R_(programming_language/)
 
 [Email](mailto:lbocken@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ludovicbocken/) / [GitHub](https://github.com/lbocken) / [Resume](https://lbocken.github.io/resume/)
 
