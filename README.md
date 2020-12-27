@@ -8,12 +8,21 @@ _R & D in Artificial Intelligence, Machine Learning, Data Science, Natural Langu
 
 ## Core Technical Skills
 
-**Programming languages** mainly : 
+**Programming languages** 
+mainly : 
 [R](https://en.wikipedia.org/wiki/R_(programming_language/)),
 [Python](https://en.wikipedia.org/wiki/Python_(programming_language)),
-*C++* ; also : *Java*, *Visual Basic*, *Perl*, *Prolog*, *Haskell*, *LISP*
+[C++](),
+also : 
+[Java](https://en.wikipedia.org/wiki/Java_(programming_language)),
+[Visual Basic](),
+[Perl](https://en.wikipedia.org/wiki/Perl) / [Raku](https://en.wikipedia.org/wiki/Raku_(programming_language)),
+[Prolog](https://en.wikipedia.org/wiki/Prolog),
+[Haskell](https://en.wikipedia.org/wiki/Haskell_(programming_language)),
+[Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language)).
 
-**Markup languages** *HTML*, *XML*, *json*, *AIML*
+
+**Markup languages** *HTML*, *XML*, *json*, *AIML*, *LaTex*
 
 **Semantic Web languages** *RDF*, *OWL*
 
@@ -21,7 +30,7 @@ _R & D in Artificial Intelligence, Machine Learning, Data Science, Natural Langu
 
 **Semantic Reasoners** *Pellet*, *RacerPro*, *FaCT++*, *HermiT*
 
-**Softwares** *Excel*, *NooJ*, *Praat*
+**Softwares** *Excel*, *NooJ*, *Praat*, *TexStudio*
     
 ## Experience
 
