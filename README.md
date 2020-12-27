@@ -19,17 +19,22 @@
 mainly : 
 [R](https://en.wikipedia.org/wiki/R_(programming_language/)),
 [Python](https://en.wikipedia.org/wiki/Python_(programming_language)),
-[C++](),
+[C++](https://en.wikipedia.org/wiki/C%2B%2B),
 also : 
 [Java](https://en.wikipedia.org/wiki/Java_(programming_language)),
-[Visual Basic](),
+[Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic),
 [Perl](https://en.wikipedia.org/wiki/Perl) / [Raku](https://en.wikipedia.org/wiki/Raku_(programming_language)),
 [Prolog](https://en.wikipedia.org/wiki/Prolog),
 [Haskell](https://en.wikipedia.org/wiki/Haskell_(programming_language)),
 [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language)).
 
 
-**Markup languages** *HTML*, *XML*, *json*, *AIML*, *LaTex*
+**Markup languages** 
+[Hypertext Markup Language (HTML)](https://en.wikipedia.org/wiki/HTML), 
+[Extensible Markup Language (XML)](https://en.wikipedia.org/wiki/XML), 
+[JSON (JavaScript Object Notation)](https://en.wikipedia.org/wiki/JSON), 
+[Artificial Intelligence Markup Language (AIML)](https://en.wikipedia.org/wiki/AIML), 
+[LaTeX](https://en.wikipedia.org/wiki/LaTeX), 
 
 **Semantic Web languages** *RDF*, *OWL*
 
