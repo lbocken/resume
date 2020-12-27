@@ -176,6 +176,25 @@ also :
 
 
 ## Supervised works and projects
+Mbikay, C., *Can the virtual age supplant real contact? The impact of the Internet on relations between public relations officers and journalists*, Haute École Libre de Bruxelles - Ilya Prigogine, 2009.
+
+Kacik, J., *Digital reputation: create, manage, and monitor - practical case: ZEST Design \& Architecture*, Haute École Libre de Bruxelles - Ilya Prigogine, 2009.
+
+Boulais, M., *To what extent does the Escale du Nord cultural center participate in the democratization of culture in Anderlecht?*, Haute École Libre de Bruxelles - Ilya Prigogine, 2009.
+
+Pede, T., *The Digital Comic Strip in 2010 - State of play*, Haute École Libre de Bruxelles - Ilya Prigogine, 2009.
+
+Andrianne, C., *Social media, practical case: development of a communication project via social media for the Chassepierre International Street Arts Festival*, Haute École Libre de Bruxelles, 2009.
+
+Pardonge, A., *The web ergonomists come from Mars, the web designers from Venus, As part of a user-centered approach, can we build a bridge between these two disciplines?, The practical case of Flair*, Haute École Libre de Bruxelles - Ilya Prigogine, 2009.
+
+Chojnacki, L., *Emergence of television series: the reasons for success*, Haute École Libre de Bruxelles - Ilya Prigogine, 2009.
+
+Vliegen, V., *Corporate communication of communication agencies, Paradox and difficulties*, Haute École Libre de Bruxelles - Ilya Prigogine, 2009.
+
+Desenfants, Y., *Internal communication solutions in a small structure, Case study: Poseco asbl*, Haute École Libre de Bruxelles - Ilya Prigogine, 2009.
+
+Dewandeleer, L., *Natural Color Diamond communication strategy*, Haute École Libre de Bruxelles - Ilya Prigogine, 2009.
 
 ## Interests
 **Triathlon** super sprint distance :	swimming (250 m) - biking (6,5 km) - running (1,7 km)
