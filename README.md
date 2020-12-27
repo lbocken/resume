@@ -45,11 +45,15 @@ also :
 [SPARQL Protocol and RDF Query Language](https://en.wikipedia.org/wiki/SPARQL).
 
 **Semantic Reasoners** 
-[Pellet]()
-
 *Pellet*, *RacerPro*, *FaCT++*, *HermiT*
 
-**Softwares** *Excel*, *NooJ*, *Praat*, *TexStudio*
+**Softwares** 
+[RStudio](https://en.wikipedia.org/wiki/RStudio)
+[Protégé](https://en.wikipedia.org/wiki/Prot%C3%A9g%C3%A9_(software)),
+[Microsoft Excel](https://en.wikipedia.org/wiki/Microsoft_Excel),
+[NooJ](https://en.wikipedia.org/wiki/NooJ),
+[Praat](https://en.wikipedia.org/wiki/Praat),
+[Texstudio](https://en.wikipedia.org/wiki/TeXstudio)
     
 ## Experience
 
@@ -72,7 +76,7 @@ also :
 
 **PhD in Natural Language Processing** @ *Université de Franche Comté (UFC)*
 
-**Master (Licence) in Linguistics** @ *Université Libre de Bruxelles (ULB)*
+**Master (Licence) in Linguistics** @ [Université Libre de Bruxelles (ULB)](https://en.wikipedia.org/wiki/Universit%C3%A9_libre_de_Bruxelles)
 
 **Training for Higher Education CAPAES in Communication** @ *Université Libre de Bruxelles (ULB)*
 
