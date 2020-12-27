@@ -8,27 +8,38 @@ _R & D in Artificial Intelligence, Machine Learning, Data Science, Natural Langu
 
 **Programming languages** mainly : R, Python, C++ ; also : Java, Visual Basic, Perl, Prolog, LISP
 
-*Markup languages* HTML, XML, json, AIML
+**Markup languages** HTML, XML, json, AIML
 
-*Semantic Web languages* RDF, OWL
+**Semantic Web languages** RDF, OWL
 
-*Query languages* SQL, SPARQL
+**Query languages** SQL, SPARQL
 
-*Semantic Reasoners* Pellet, RacerPro, FaCT++, HermiT
+**Semantic Reasoners** Pellet, RacerPro, FaCT++, HermiT
+
+**Softwares** Excel, NooJ, Praat 
     
 ## Education
-**PhD in Cognitive Computing** @ Université du Québec (TELUQ) - Université du Québec à Montréal (UQAM)
+**PhD in Cognitive Computing** @ *Université du Québec (TELUQ)* - *Université du Québec à Montréal (UQAM)*
 
-**PhD in Natural Language Processing** @ Université de Franche Comté (UFC)
+**PhD in Natural Language Processing** @ *Université de Franche Comté (UFC)*
 
-**Master (Licence) in Linguistics** @ Université Libre de Bruxelles
+**Master (Licence) in Linguistics** @ *Université Libre de Bruxelles (ULB)*
 
-**Training for Higher Education CAPAES in Communication** @ Université Libre de Bruxelles
+**Training for Higher Education CAPAES in Communication** @ *Université Libre de Bruxelles (ULB)*
 
-*Master (Licence) in Linguistics* @ Université Libre de Bruxelles
+**Master (Licence) in Linguistics** @ *Université Libre de Bruxelles (ULB)*
 
-*Bachelor in Philosophy* @ Université Catholique de Louvain
+**Bachelor in Philosophy** @ *Université Catholique de Louvain (UCL)*
 
 ## Experience
+**Consultant** @ *myRide*, *explorance*
+
+**Author** - @ Packt, O'Reilly, Manning, APress
+
+**Inventor** - Knowledge Management ; Biomechanics (Stretching Machine)
+
+**Assistant Professor (Maître Assistant)** @ *Pôle Académique Bruxelles (Haute Ecole Libre de Bruxelles (HELB) - Ilya Prigogine*
+
+**Commercial Attaché / Seller** @ *Easydentic*, *Simply Better*, *Hamburg Manheimer*, *Canal+/BeTV* 
 
 ## Projects
