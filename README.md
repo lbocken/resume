@@ -67,7 +67,7 @@ also :
 
 **Assistant Professor (Maître Assistant)** @ *Pôle Académique Bruxelles > Haute Ecole Libre de Bruxelles (HELB) - Ilya Prigogine > Public Relations / Management Informatics > Courses : Communication in French language ; Methodologies ; Theories of commmunication ; Interpersonal relationships*
 
-**Inventor** *Knowledge Management* ; *Biomechanics (Stretching Machine)* <2000 - Present>
+**Researcher & Inventor** in [Reading comprehension](https://en.wikipedia.org/wiki/Reading_comprehension), [Biomechanics](https://en.wikipedia.org/wiki/Biomechanics) ([Stretching](https://en.wikipedia.org/wiki/Stretching) Machines), [Knowledge Management](https://en.wikipedia.org/wiki/Knowledge_management) <2000 - Present>
 
 **Commercial Attaché / Seller / Telemarketing** @ *Easydentic*, *Simply Better*, *Hamburg Manheimer*, *Canal+/BeTV*, *Phonecom* <1998 - 2004>
 
@@ -82,7 +82,7 @@ also :
 
 **Master (Licence)** in [Linguistics](https://en.wikipedia.org/wiki/Linguistics) @ [Université Libre de Bruxelles (ULB)](https://en.wikipedia.org/wiki/Universit%C3%A9_libre_de_Bruxelles)
 
-**Bachelor in Philosophy** @ [Université Catholique de Louvain (UCL)](https://en.wikipedia.org/wiki/Universit%C3%A9_catholique_de_Louvain)
+**Bachelor** in [Philosophy](https://en.wikipedia.org/wiki/Philosophy) @ [Université Catholique de Louvain (UCL)](https://en.wikipedia.org/wiki/Universit%C3%A9_catholique_de_Louvain)
 
 ## Projects
 
