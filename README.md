@@ -37,8 +37,11 @@ _R & D in Artificial Intelligence, Machine Learning, Data Science, Natural Langu
 
 **Consultant** @ *myRide*, *explorance*, *iWintoo* <2020 - present>
 
+**Moodle Webmaster** @ *Pôle Académique Bruxelles > Haute Ecole Libre de Bruxelles (HELB) - Ilya Prigogine > Public Relations / Management Informatics*
 
-**Assistant Professor (Maître Assistant)** @ *Pôle Académique Bruxelles > Haute Ecole Libre de Bruxelles (HELB) - Ilya Prigogine > Public Relations / Management Informatics*
+**Project Manager** @ *Pôle Académique Bruxelles > Haute Ecole Libre de Bruxelles (HELB) - Ilya Prigogine > Public Relations / Management Informatics*
+
+**Assistant Professor (Maître Assistant)** @ *Pôle Académique Bruxelles > Haute Ecole Libre de Bruxelles (HELB) - Ilya Prigogine > Public Relations / Management Informatics > Courses : Communication in French language ; Methodologies ; Theories of commmunication ; Interpersonal relationships*
 
 **Inventor** *Knowledge Management* ; *Biomechanics (Stretching Machine)* <2000 - Present>
 
