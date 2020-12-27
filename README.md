@@ -29,26 +29,26 @@ also :
 [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language)).
 
 
-**Markup languages** 
+**Markup languages** :
 [Hypertext Markup Language (HTML)](https://en.wikipedia.org/wiki/HTML), 
 [Extensible Markup Language (XML)](https://en.wikipedia.org/wiki/XML), 
 [JSON (JavaScript Object Notation)](https://en.wikipedia.org/wiki/JSON), 
 [Artificial Intelligence Markup Language (AIML)](https://en.wikipedia.org/wiki/AIML), 
 [LaTeX](https://en.wikipedia.org/wiki/LaTeX), 
 
-**Semantic Web languages** 
+**Semantic Web languages** :
 [Resource Description Framework (RDF)](https://en.wikipedia.org/wiki/Resource_Description_Framework),
 [Web Ontology Language (OWL)](https://en.wikipedia.org/wiki/Web_Ontology_Language).
 
-**Query languages**
+**Query languages** :
 [Structured Query Language (SQL)](https://en.wikipedia.org/wiki/SQL),
 [SPARQL Protocol and RDF Query Language](https://en.wikipedia.org/wiki/SPARQL).
 
-**Semantic Reasoners** 
+**Semantic Reasoners** :
 *Pellet*, *RacerPro*, *FaCT++*, *HermiT*
 
-**Softwares** 
-[RStudio](https://en.wikipedia.org/wiki/RStudio)
+**Softwares** :
+[RStudio](https://en.wikipedia.org/wiki/RStudio),
 [Protégé](https://en.wikipedia.org/wiki/Prot%C3%A9g%C3%A9_(software)),
 [Microsoft Excel](https://en.wikipedia.org/wiki/Microsoft_Excel),
 [NooJ](https://en.wikipedia.org/wiki/NooJ),
@@ -72,17 +72,17 @@ also :
 **Commercial Attaché / Seller / Telemarketing** @ *Easydentic*, *Simply Better*, *Hamburg Manheimer*, *Canal+/BeTV*, *Phonecom* <1998 - 2004>
 
 ## Education
-**PhD in Cognitive Computing** @ *Université du Québec (TELUQ)* - *Université du Québec à Montréal (UQAM)*
+**PhD in Cognitive Computing** @ [Université T\'ELUQ](https://en.wikipedia.org/wiki/Universit%C3%A9_T%C3%89LUQ) & (Université du Québec à Montréal (UQAM))[https://en.wikipedia.org/wiki/Universit%C3%A9_du_Qu%C3%A9bec_%C3%A0_Montr%C3%A9al]
 
-**PhD in Natural Language Processing** @ *Université de Franche Comté (UFC)*
+**PhD in Natural Language Processing** @ [Université de Franche-Comté (UFC)](https://en.wikipedia.org/wiki/University_of_Franche-Comt%C3%A9)
 
 **Master (Licence) in Linguistics** @ [Université Libre de Bruxelles (ULB)](https://en.wikipedia.org/wiki/Universit%C3%A9_libre_de_Bruxelles)
 
-**Training for Higher Education CAPAES in Communication** @ *Université Libre de Bruxelles (ULB)*
+**Training for Higher Education CAPAES in Communication** @ [Université Libre de Bruxelles (ULB)](https://en.wikipedia.org/wiki/Universit%C3%A9_libre_de_Bruxelles)
 
-**Master (Licence) in Linguistics** @ *Université Libre de Bruxelles (ULB)*
+**Master (Licence) in Linguistics** @ [Université Libre de Bruxelles (ULB)](https://en.wikipedia.org/wiki/Universit%C3%A9_libre_de_Bruxelles)
 
-**Bachelor in Philosophy** @ *Université Catholique de Louvain (UCL)*
+**Bachelor in Philosophy** @ [Université Catholique de Louvain (UCL)](https://en.wikipedia.org/wiki/Universit%C3%A9_catholique_de_Louvain)
 
 ## Projects
 
