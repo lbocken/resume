@@ -68,10 +68,10 @@ also :
 [Epistemic logic](https://en.wikipedia.org/wiki/Epistemic_modal_logic),
 [Management](https://en.wikipedia.org/wiki/Management)
 @ 
-[Packt](https://en.wikipedia.org/wiki/Packt)
-[O'Reilly](https://en.wikipedia.org/wiki/O%27Reilly_Media)
-[Manning](https://en.wikipedia.org/wiki/Manning_Publications)
-[Apress](https://en.wikipedia.org/wiki/Apress)
+[Packt](https://en.wikipedia.org/wiki/Packt),
+[O'Reilly](https://en.wikipedia.org/wiki/O%27Reilly_Media),
+[Manning](https://en.wikipedia.org/wiki/Manning_Publications),
+[Apress](https://en.wikipedia.org/wiki/Apress),
 [Springer](https://en.wikipedia.org/wiki/Springer_Publishing)
 <2020 - Present>
 
