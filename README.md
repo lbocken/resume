@@ -113,12 +113,43 @@ also :
 ## Projects
 
 ## Scientific communications
+### Conferences
+	2017, Textual Complexity Metrics Applications for Wikipedia Quality Control by Classifications. Dans \textit{Cognitive computing conference (UQAM)}.
+	
+	2016, Functional modeling of the utility of Wikipedia in the acquisition of concepts from texts. Dans \textit{Scientific Day of LICEF}.
+	
+	2016, Wikipedia, a building providing access to (non) expert information: a legal ontological analogy in a situation of uncertainty. Dans \textit{Cognitive computing Seminar at UQAM}.
+	
+	2015, Recommendation of Wikipedia articles when reading PLoS scientific texts. Dans \textit{LANCI workshop}.
+	
+	2014, How Wikipedia can help you to read a scientific article? Predictions for the Semantic Web according to Fuzzy Probabilistic Epistemic Models. Dans \textit{Cognitive Computing Conference and in Web Science and the Mind, Summer School in Cognitive sciences at UQAM}.
+	
+	2014, Morphological and syntactic grammars of scientific titles for cognitive computing applications. Dans \textit{International NooJ Conference 2014}.
+	
+	2014, Recommendations and reading assistance with Wikipedia Concept Table: deductive inference and cognitive complexity metrics. Dans \textit{82e Congrès de l'ACFAS, Colloque 627 - Environnements numériques d’apprentissage, tuteurs intelligents et jeux sérieux}.
+	
+	2014, Augmented reading with Wikipedia Concept Table: computing, linguistic, and cognitive models. Dans \textit{82e Congrès de l'ACFAS, Colloque 635 - Langues Naturelles, Informatique et Sciences Cognitives}.
+	
+	2014, A unified model to compute quality of titles. Dans \textit{Scientific Day of the Centre of Research for Brain Language and Music}.
+	
+### Research works
+	2010, Uses and perspectives of concept maps and modeling in FLE for higher education learners, Thesis at the Free University of Brussels - Faculties of Philosophy and Letters.
+	
+	2006, Linguistics and bibliotherapy, analysis of interviews on the therapeutic nature of books and reading, Thesis at the Free University of Brussels - Faculties of Philosophy and Letters.
+	
+	2005, Reading and emergence: the language of memory in bibliotherapy, Thesis at the Free University of Brussels - Faculties of Philosophy and Letters.
+	
+	2005, Memory and representation: confrontation of competing paradigms, Research work at the Université Libre de Bruxelles - Faculties of Philosophy and Letters.
+	
+	2001, Is the will the foundation of morality? attempt to define a desire for dialogue as a prior basis for the emergence of moral values, Research work at the Catholic University of Louvain - Institute of Philosophy.
 
 ## Supervised works and projects
 
 ## Interests
 **Triathlon** super sprint distance :	swimming (250 m) - biking (6,5 km) - running (1,7 km)
+
 **Drums** My favorite drummers : Stéphane Galland, Dennis Chambers, Dave Weckl
+
 **Cinéma** My favorite actors : Daniel Day-Lewis, Léonardo Di Caprio, Colin Firth
 
 ## Recommendations from LinkedIn
