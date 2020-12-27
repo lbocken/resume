@@ -116,6 +116,10 @@ also :
 
 ## Supervised works and projects
 
+## Interests
+**Triathlon** super sprint distance :	swimming (250 m) - biking (6,5 km) - running (1,7 km)
+**Drums** My favorite drummers : Stéphane Galland, Dennis Chambers, Dave Weckl
+**Cinéma** My favorite actors : Daniel Day-Lewis, Léonardo Di Caprio, Colin Firth
 
 ## Recommendations from LinkedIn
 
