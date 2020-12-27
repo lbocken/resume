@@ -61,7 +61,7 @@ also :
 
 **Consultant** @ *myRide*, *explorance*, *iWintoo* <2020 - present>
 
-**Moodle Webmaster** @ *Pôle Académique Bruxelles > Haute Ecole Libre de Bruxelles (HELB) - Ilya Prigogine > Public Relations / Management Informatics*
+**E-learning Webmaster** of [Moodle](https://en.wikipedia.org/wiki/Moodle) [Learning Management Systems](https://en.wikipedia.org/wiki/Learning_management_system) @ *Pôle Académique Bruxelles > Haute Ecole Libre de Bruxelles (HELB) - Ilya Prigogine > Public Relations / Management Informatics*
 
 **Project Manager** @ *Pôle Académique Bruxelles > Haute Ecole Libre de Bruxelles (HELB) - Ilya Prigogine > Public Relations / Management Informatics*
 
