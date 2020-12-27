@@ -18,19 +18,6 @@ _R & D in Artificial Intelligence, Machine Learning, Data Science, Natural Langu
 
 **Softwares** *Excel*, *NooJ*, *Praat*
     
-## Education
-**PhD in Cognitive Computing** @ *Université du Québec (TELUQ)* - *Université du Québec à Montréal (UQAM)*
-
-**PhD in Natural Language Processing** @ *Université de Franche Comté (UFC)*
-
-**Master (Licence) in Linguistics** @ *Université Libre de Bruxelles (ULB)*
-
-**Training for Higher Education CAPAES in Communication** @ *Université Libre de Bruxelles (ULB)*
-
-**Master (Licence) in Linguistics** @ *Université Libre de Bruxelles (ULB)*
-
-**Bachelor in Philosophy** @ *Université Catholique de Louvain (UCL)*
-
 ## Experience
 
 **Author** - @ *Packt*, *O'Reilly*, *Manning*, *APress*, *Springer* <2020 - Present>
@@ -46,6 +33,19 @@ _R & D in Artificial Intelligence, Machine Learning, Data Science, Natural Langu
 **Inventor** *Knowledge Management* ; *Biomechanics (Stretching Machine)* <2000 - Present>
 
 **Commercial Attaché / Seller / Telemarketing** @ *Easydentic*, *Simply Better*, *Hamburg Manheimer*, *Canal+/BeTV*, *Phonecom* <1998 - 2004>
+
+## Education
+**PhD in Cognitive Computing** @ *Université du Québec (TELUQ)* - *Université du Québec à Montréal (UQAM)*
+
+**PhD in Natural Language Processing** @ *Université de Franche Comté (UFC)*
+
+**Master (Licence) in Linguistics** @ *Université Libre de Bruxelles (ULB)*
+
+**Training for Higher Education CAPAES in Communication** @ *Université Libre de Bruxelles (ULB)*
+
+**Master (Licence) in Linguistics** @ *Université Libre de Bruxelles (ULB)*
+
+**Bachelor in Philosophy** @ *Université Catholique de Louvain (UCL)*
 
 ## Projects
 
