@@ -33,15 +33,16 @@ _R & D in Artificial Intelligence, Machine Learning, Data Science, Natural Langu
 
 ## Experience
 
-**Author** - @ *Packt*, *O'Reilly*, *Manning*, *APress*, *Springer* (2020 - Present)
+**Author** - @ *Packt*, *O'Reilly*, *Manning*, *APress*, *Springer* <2020 - Present>
 
-**Consultant** @ *myRide*, *explorance*, *iWintoo* (2020 - present)
+**Consultant** @ *myRide*, *explorance*, *iWintoo* <2020 - present>
+
+
+**Assistant Professor (Maître Assistant)** @ *Pôle Académique Bruxelles > Haute Ecole Libre de Bruxelles (HELB) - Ilya Prigogine > Public Relations / Management Informatics*
 
 **Inventor** - Knowledge Management ; Biomechanics (Stretching Machine) <2000 - Present>
 
-**Assistant Professor (Maître Assistant)** @ *Pôle Académique Bruxelles (Haute Ecole Libre de Bruxelles (HELB) - Ilya Prigogine*
-
-**Commercial Attaché / Seller** @ *Easydentic*, *Simply Better*, *Hamburg Manheimer*, *Canal+/BeTV* 
+**Commercial Attaché / Seller / Telemarketing** @ *Easydentic*, *Simply Better*, *Hamburg Manheimer*, *Canal+/BeTV*, *Phonecom* <1998 - 2004>
 
 ## Projects
 
