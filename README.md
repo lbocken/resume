@@ -2,17 +2,16 @@
 
 _R & D in Artificial Intelligence, Machine Learning, Data Science, Natural Language Processing
 
-[R](https://en.wikipedia.org/wiki/R_(programming_language/))
 
-[Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 
 [Email](mailto:lbocken@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ludovicbocken/) / [GitHub](https://github.com/lbocken) / [Resume](https://lbocken.github.io/resume/)
 
 ## Core Technical Skills
 
 **Programming languages** mainly : 
-
-, *Python*, *C++* ; also : *Java*, *Visual Basic*, *Perl*, *Prolog*, *Haskell*, *LISP*
+[R](https://en.wikipedia.org/wiki/R_(programming_language/)),
+[Python](https://en.wikipedia.org/wiki/Python_(programming_language)),
+*C++* ; also : *Java*, *Visual Basic*, *Perl*, *Prolog*, *Haskell*, *LISP*
 
 **Markup languages** *HTML*, *XML*, *json*, *AIML*
 
