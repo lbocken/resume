@@ -1,8 +1,15 @@
 # Ludovic BOCKEN, PhDs (c)
 
-_R & D in Artificial Intelligence, Machine Learning, Data Science, Natural Language Processing
-
-
+**R & D** in 
+[Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence),
+[Cognitive computing](https://en.wikipedia.org/wiki/Cognitive_computing), 
+[Machine Learning](https://en.wikipedia.org/wiki/Machine_learning), 
+[Data Science](https://en.wikipedia.org/wiki/Data_science), 
+[Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing),
+[Natural Language Understanding](https://en.wikipedia.org/wiki/Natural-language_understanding),
+[Epistemology](https://en.wikipedia.org/wiki/Epistemology),
+[Epistemic logic](https://en.wikipedia.org/wiki/Epistemic_modal_logic),
+[Management](https://en.wikipedia.org/wiki/Management).
 
 [Email](mailto:lbocken@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ludovicbocken/) / [GitHub](https://github.com/lbocken) / [Resume](https://lbocken.github.io/resume/)
 
