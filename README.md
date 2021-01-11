@@ -66,7 +66,9 @@ also :
 [Natural Language Understanding](https://en.wikipedia.org/wiki/Natural-language_understanding),
 [Epistemology](https://en.wikipedia.org/wiki/Epistemology),
 [Epistemic logic](https://en.wikipedia.org/wiki/Epistemic_modal_logic),
-[Management](https://en.wikipedia.org/wiki/Management)
+[Management](https://en.wikipedia.org/wiki/Management),
+[Statistics](https://en.wikipedia.org/wiki/Management)
+
 @ 
 [Packt](https://en.wikipedia.org/wiki/Packt),
 [O'Reilly](https://en.wikipedia.org/wiki/O%27Reilly_Media),
