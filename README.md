@@ -113,9 +113,9 @@ also :
 **Commercial Attaché / Seller / Telemarketing** @ *Easydentic*, *Simply Better*, *Hamburg Manheimer*, *Canal+/BeTV*, *Phonecom* <1998 - 2004>
 
 ## Education
-**PhD** in [Cognitive Computing](https://en.wikipedia.org/wiki/Cognitive_computing) @ [Université TELUQ](https://en.wikipedia.org/wiki/Universit%C3%A9_T%C3%89LUQ) & [Université du Québec à Montréal (UQAM)](https://en.wikipedia.org/wiki/Universit%C3%A9_du_Qu%C3%A9bec_%C3%A0_Montr%C3%A9al) - 3.86
+**PhD** in [Cognitive Computing](https://en.wikipedia.org/wiki/Cognitive_computing) @ [Université TELUQ](https://en.wikipedia.org/wiki/Universit%C3%A9_T%C3%89LUQ) & [Université du Québec à Montréal (UQAM)](https://en.wikipedia.org/wiki/Universit%C3%A9_du_Qu%C3%A9bec_%C3%A0_Montr%C3%A9al) - 3.86 <2012 -- 2019>
 
-**PhD** in [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing) @ [Université de Franche-Comté (UFC)](https://en.wikipedia.org/wiki/University_of_Franche-Comt%C3%A9)
+**PhD** in [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing) @ [Université de Franche-Comté (UFC)](https://en.wikipedia.org/wiki/University_of_Franche-Comt%C3%A9) <2013 -- 2019>
 
 **Master (Licence)** in [French As Foreign Language](https://en.wikipedia.org/wiki/Fran%C3%A7ais_langue_%C3%A9trang%C3%A8re) @ [Université Libre de Bruxelles (ULB)](https://en.wikipedia.org/wiki/Universit%C3%A9_libre_de_Bruxelles) - High Distinction
 
