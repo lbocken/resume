@@ -72,7 +72,8 @@ also :
 [O'Reilly](https://en.wikipedia.org/wiki/O%27Reilly_Media),
 [Manning](https://en.wikipedia.org/wiki/Manning_Publications),
 [Apress](https://en.wikipedia.org/wiki/Apress),
-[Springer](https://en.wikipedia.org/wiki/Springer_Publishing)
+[Springer](https://en.wikipedia.org/wiki/Springer_Publishing),
+[Wiley](https://en.wikipedia.org/wiki/Wiley_(publisher))
 <2020 - Present>
 
 **Consultant** in
