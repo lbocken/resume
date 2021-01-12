@@ -147,6 +147,8 @@ also :
 
 ## Scientific communications
 ### In publication
+2022, Classification of text complexity metrics.
+
 2022, Subadditivity of text complexity metrics.
 
 2022, Joint text complexity as a mean.
