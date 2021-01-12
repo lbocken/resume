@@ -147,6 +147,10 @@ also :
 
 ## Scientific communications
 ### In publication
+2022, Distances to first and main articles of Wikipedia categories.
+
+2022, Fuzzy classification of Wikipedia articles from named entity recognition.
+
 2022, Classification of text complexity metrics.
 
 2022, Subadditivity of text complexity metrics.
