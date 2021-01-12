@@ -147,6 +147,12 @@ also :
 
 ## Scientific communications
 ### In publication
+2022, Subadditivity of text complexity metrics.
+
+2022, Idempotence of text complexity metrics.
+
+2022, Linearity of text complexity metrics.
+
 2022, Lexical transitivity for Wikipedia articles in subclass relationships.
 
 2022, Compositional data analysis of textual metrics for Wikipedia articles.
