@@ -149,6 +149,8 @@ also :
 ### In publication
 2022, Subadditivity of text complexity metrics.
 
+2022, Joint text complexity as a mean.
+
 2022, Idempotence of text complexity metrics.
 
 2022, Linearity of text complexity metrics.
@@ -157,17 +159,19 @@ also :
 
 2022, Compositional data analysis of textual metrics for Wikipedia articles.
 
-2022, Triangle inequalities of textual metrics for Wikipedia articles.
+2022, Triangle inequalities of textual metrics in Wikipedia.
+
+2022, Tetrahedral features of text complexity metrics in Wikipedia.
 
 2022, Combinatorial features of text complexity metrics in Wikipedia articles.
 
 2022, Quality control for readability of Wikipedia articles about COVID-19.
 
-2022, Joint text complexity as a mean.
-
 2022, Contrastive Text complexity of Simple English Wikipedia.
 
 2022, Contrastive Text complexity of Simple English Wiktionary.
+
+2022, Golden or silver thresholds for quality control of Wikipedia articles?
 
 ### Conferences
 2017, Textual Complexity Metrics Applications for Wikipedia Quality Control by Classifications. In *Cognitive computing conference (UQAM)*.
