@@ -68,7 +68,6 @@ also :
 [Epistemic logic](https://en.wikipedia.org/wiki/Epistemic_modal_logic),
 [Management](https://en.wikipedia.org/wiki/Management),
 [Statistics](https://en.wikipedia.org/wiki/Management)
-
 @ 
 [Packt](https://en.wikipedia.org/wiki/Packt),
 [O'Reilly](https://en.wikipedia.org/wiki/O%27Reilly_Media),
@@ -88,7 +87,7 @@ also :
 [Epistemology](https://en.wikipedia.org/wiki/Epistemology),
 [Epistemic logic](https://en.wikipedia.org/wiki/Epistemic_modal_logic),
 [Management](https://en.wikipedia.org/wiki/Management)
-@ *myRide*, *explorance*, *iWintoo* <2020 - present>
+@ *iWintoo* <2020 - present>
 
 **PhD Fellowships** @ 
 [Fonds de recherche du Québec - Société et culture (FRQSC)](http://www.frqsc.gouv.qc.ca/en/),
