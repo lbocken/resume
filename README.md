@@ -93,7 +93,7 @@ also :
 [Fonds de recherche du Québec - Société et culture (FRQSC)](http://www.frqsc.gouv.qc.ca/en/),
 [Université TELUQ](https://en.wikipedia.org/wiki/Universit%C3%A9_T%C3%89LUQ),
 [Université du Québec à Montréal (UQAM)](https://en.wikipedia.org/wiki/Universit%C3%A9_du_Qu%C3%A9bec_%C3%A0_Montr%C3%A9al)
-<2015>
+<2015 - 2018>
 
 **French as Foreign Language Teacher** @ 
 [Université Lille 1 - Sciences et technologies > Centre université économie d'éducation permanente (CUEEP)](https://en.wikipedia.org/wiki/Lille_University_of_Science_and_Technology), 
@@ -104,7 +104,7 @@ also :
 [Pôle Académique Bruxelles > Haute Ecole Libre de Bruxelles (HELB) - Ilya Prigogine > Centre de Recherches et d'Etudes appliquées (CREA)](https://www.crea-helb.be/)
 <2008 - present>
 
-**E-learning Webmaster** of [Moodle](https://en.wikipedia.org/wiki/Moodle) [Learning Management Systems](https://en.wikipedia.org/wiki/Learning_management_system) @ *Pôle Académique Bruxelles > Haute Ecole Libre de Bruxelles (HELB) - Ilya Prigogine > Public Relations / Management Informatics* <2009-2011>
+**E-learning Webmaster** of [Moodle](https://en.wikipedia.org/wiki/Moodle) [Learning Management Systems](https://en.wikipedia.org/wiki/Learning_management_system) @ *Pôle Académique Bruxelles > Haute Ecole Libre de Bruxelles (HELB) - Ilya Prigogine > Public Relations / Management Informatics* <2009 - 2011>
 
 **Project Manager** @ *Pôle Académique Bruxelles > Haute Ecole Libre de Bruxelles (HELB) - Ilya Prigogine > Public Relations / Management Informatics* <2008-2011>
 
