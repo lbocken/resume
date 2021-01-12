@@ -146,9 +146,22 @@ also :
 
 
 ## Scientific communications
-### Articles to publish
-2022, Combinatorial features of readability metrics.
-2022, Quality control of Wikipedia articles about COVID-19.
+### In publication
+2022, Lexical transitivity for Wikipedia articles in subclass relationships.
+
+2022, Compositional data analysis of textual metrics for Wikipedia articles.
+
+2022, Triangle inequalities of textual metrics for Wikipedia articles.
+
+2022, Combinatorial features of text complexity metrics in Wikipedia articles.
+
+2022, Quality control for readability of Wikipedia articles about COVID-19.
+
+2022, Joint text complexity as a mean.
+
+2022, Contrastive Text complexity of Simple English Wikipedia.
+
+2022, Contrastive Text complexity of Simple English Wiktionary.
 
 ### Conferences
 2017, Textual Complexity Metrics Applications for Wikipedia Quality Control by Classifications. In *Cognitive computing conference (UQAM)*.
