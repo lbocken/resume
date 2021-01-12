@@ -175,6 +175,12 @@ also :
 
 2022, Golden or silver thresholds for quality control of Wikipedia articles?
 
+2022, The idea of justice in Wikipedia.
+
+2022, The idea of knowledge in Wikipedia.
+
+2022, Science related noun phrases in Wikipedia.
+
 ### Conferences
 2017, Textual Complexity Metrics Applications for Wikipedia Quality Control by Classifications. In *Cognitive computing conference (UQAM)*.
 
