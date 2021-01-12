@@ -147,6 +147,10 @@ also :
 
 
 ## Scientific communications
+### Articles to publish
+2022, Combinatorial features of readability metrics.
+2022, Quality control of Wikipedia articles about COVID-19.
+
 ### Conferences
 2017, Textual Complexity Metrics Applications for Wikipedia Quality Control by Classifications. In *Cognitive computing conference (UQAM)*.
 
