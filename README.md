@@ -58,7 +58,11 @@ also :
 ## Experience
 
 **Provider of Artificial Intelligence Solutions** with Open Data for and from Public institutions such as 
-National Research Council, CBC News, New York State, European Commission
+[National Research Council](https://en.wikipedia.org/wiki/National_Research_Council_(Canada)), 
+[Statistics Canada](https://en.wikipedia.org/wiki/Statistics_Canada),
+[CBC News](https://en.wikipedia.org/wiki/CBC_News), 
+[New York State](https://en.wikipedia.org/wiki/New_York_(state)), 
+[European Commission](https://en.wikipedia.org/wiki/European_Commission)
 
 **Author** in
 [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence),
