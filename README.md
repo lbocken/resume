@@ -57,6 +57,9 @@ also :
     
 ## Experience
 
+**Provider of Artificial Intelligence Solutions** with Open Data for and from Public institutions such as 
+National Research Council, CBC News, New York State, European Commission
+
 **Author** in
 [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence),
 [Cognitive computing](https://en.wikipedia.org/wiki/Cognitive_computing), 
