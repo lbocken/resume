@@ -154,43 +154,43 @@ also :
 
 ## Scientific communications
 ### In publication
-2022, Distances to first and main articles of Wikipedia categories.
+-, Distances to first and main articles of Wikipedia categories.
 
-2022, Fuzzy classification of Wikipedia articles from named entity recognition.
+-, Fuzzy classification of Wikipedia articles from named entity recognition.
 
-2022, Classification of text complexity metrics.
+-, Classification of text complexity metrics.
 
-2022, Subadditivity of text complexity metrics.
+-, Subadditivity of text complexity metrics.
 
-2022, Joint text complexity as a mean.
+-, Joint text complexity as a mean.
 
-2022, Idempotence of text complexity metrics.
+-, Idempotence of text complexity metrics.
 
-2022, Linearity of text complexity metrics.
+-, Linearity of text complexity metrics.
 
-2022, Lexical transitivity for Wikipedia articles in subclass relationships.
+-, Lexical transitivity for Wikipedia articles in subclass relationships.
 
-2022, Compositional data analysis of textual metrics for Wikipedia articles.
+-, Compositional data analysis of textual metrics for Wikipedia articles.
 
-2022, Triangle inequalities of textual metrics in Wikipedia.
+-, Triangle inequalities of textual metrics in Wikipedia.
 
-2022, Tetrahedral features of text complexity metrics in Wikipedia.
+-, Tetrahedral features of text complexity metrics in Wikipedia.
 
-2022, Combinatorial features of text complexity metrics in Wikipedia articles.
+-, Combinatorial features of text complexity metrics in Wikipedia articles.
 
-2022, Quality control for readability of Wikipedia articles about COVID-19.
+-, Quality control for readability of Wikipedia articles about COVID-19.
 
-2022, Contrastive Text complexity of Simple English Wikipedia.
+-, Contrastive Text complexity of Simple English Wikipedia.
 
-2022, Contrastive Text complexity of Simple English Wiktionary.
+-, Contrastive Text complexity of Simple English Wiktionary.
 
-2022, Golden or silver thresholds for quality control of Wikipedia articles?
+-, Golden or silver thresholds for quality control of Wikipedia articles?
 
-2022, The idea of justice in Wikipedia.
+-, The idea of justice in Wikipedia.
 
-2022, The idea of knowledge in Wikipedia.
+-, The idea of knowledge in Wikipedia.
 
-2022, Science related noun phrases in Wikipedia.
+-, Science related noun phrases in Wikipedia.
 
 ### Conferences
 2017, Textual Complexity Metrics Applications for Wikipedia Quality Control by Classifications. In *Cognitive computing conference (UQAM)*.
