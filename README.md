@@ -259,7 +259,7 @@ Dewandeleer, L., *Natural Color Diamond communication strategy*, Haute École Li
 
 ## Recommendations from LinkedIn
 
-** Alexsandro Fonseca, (PhD in Cognitive Computing. Data Scientist: NLP, AI, Semantic Search, Knowledge Graph)** *Ludovic has a brilliant, curious and analytical mind. He is very able to understand complex problems and extract the deep meaning of concepts, structures and data. Combined with his incredible skills in NLP and machine learning, he is capable of bringing invaluable insights for any project he participates.*
+**Alexsandro Fonseca, (PhD in Cognitive Computing. Data Scientist: NLP, AI, Semantic Search, Knowledge Graph)** *Ludovic has a brilliant, curious and analytical mind. He is very able to understand complex problems and extract the deep meaning of concepts, structures and data. Combined with his incredible skills in NLP and machine learning, he is capable of bringing invaluable insights for any project he participates.*
 
 **Jean-Guy Meunier, (Professor of Text analytics and Cognitive computing @ Université du Québec à Montréal)** *The expertise of Ludovic is at the cutting-edge of artificial intelligence applied to information and knowledge database construction, management and recommendation. However, his personal and original signature is his high competence in the two main domains underlying this field : linguistics and computer science. He masters in a scholarly and practical manner the complexity of analyzing texts, of extracting their semantic and communicative content. On the other side, he is highly skilled for translating these tasks into many and most intelligent data mining and learning algorithms.*
 
