@@ -58,6 +58,9 @@ also :
     
 ## Experience
 
+**Data scientist & Machine Learning Engineer** in [Bell Canada](https://en.wikipedia.org/wiki/Bell_Canada)
+Improvememts of full MLOps Cycles for several Artificial Intelligence & Predictive Analytics projects in Python & R : Data Querying, Data Analysis, Data Cleansing, Outlier Prediction, Unsupervised learning, Supervised Learning (Binary and Multiclass Classification), Regression Analysis, Logistic Regression, Reinforcement Learning, Natural Language Processing, Entity Linking to Wikidata, Knowledge Graphs Modeling, Bayesian Networks Modeling, Semantic Web Reasoning, Geocomputation, Web Applications Development (Shiny). <2021>
+
 **Provider of Artificial Intelligence Solutions** with Open Data for and from Public institutions such as 
 [National Research Council](https://en.wikipedia.org/wiki/National_Research_Council_(Canada)), 
 [Statistics Canada](https://en.wikipedia.org/wiki/Statistics_Canada),
