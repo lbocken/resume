@@ -2,15 +2,10 @@
 
 **R & D** in 
 [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence),
-[Cognitive computing](https://en.wikipedia.org/wiki/Cognitive_computing), 
 [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning), 
-[Data Science](https://en.wikipedia.org/wiki/Data_science), 
-[Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing),
-[Natural Language Understanding](https://en.wikipedia.org/wiki/Natural-language_understanding),
-[Epistemology](https://en.wikipedia.org/wiki/Epistemology),
-[Epistemic logic](https://en.wikipedia.org/wiki/Epistemic_modal_logic),
-[Management](https://en.wikipedia.org/wiki/Management).
-
+[Mathematics](https://en.wikipedia.org/wiki/Mathematics), 
+[Philosophy](https://en.wikipedia.org/wiki/Philosopy),
+[Cognitive science](https://en.wikipedia.org/wiki/Cognitive_science),
 
 [Recommendations](https://github.com/lbocken/resume/blob/gh-pages/recommendations.md) / [Email](mailto:lbocken@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ludovicbocken/) / [GitHub](https://github.com/lbocken) / [Resume](https://lbocken.github.io/resume/)
 
@@ -126,6 +121,10 @@ Improvememts of full MLOps Cycles for several Artificial Intelligence & Predicti
 **Commercial Attaché / Seller / Telemarketing** @ *Easydentic*, *Simply Better*, *Hamburg Manheimer*, *Canal+/BeTV*, *Phonecom* <1998 - 2004>
 
 ## Education
+**Doctor of Juridical Science (S.J.D)** in [Law](https://en.wikipedia.org/wiki/Law) @ [Harvard University](https://en.wikipedia.org/wiki/Harvard_Law_School)  - PREPARATION <2021>
+
+**PhD candidate** in [Philosophy - Pure and Applied Logic](https://en.wikipedia.org/wiki/Logic) @ [Carnegie Mellon University](https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Carnegie_Mellon_University) - PREPARATION <2021>
+
 **PhD candidate** in [Cognitive Computing](https://en.wikipedia.org/wiki/Cognitive_computing) @ [Université TELUQ](https://en.wikipedia.org/wiki/Universit%C3%A9_T%C3%89LUQ) & [Université du Québec à Montréal (UQAM)](https://en.wikipedia.org/wiki/Universit%C3%A9_du_Qu%C3%A9bec_%C3%A0_Montr%C3%A9al) - 3.86/4.3 ~ 90 % <2012 - 2019>
 
 **PhD candidate** in [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing) @ [Université de Franche-Comté (UFC)](https://en.wikipedia.org/wiki/University_of_Franche-Comt%C3%A9) <2013 - 2019>
