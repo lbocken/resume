@@ -125,7 +125,7 @@ Improvememts of full MLOps Cycles for several Artificial Intelligence & Predicti
 
 **PhD candidate** in [Philosophy - Pure and Applied Logic](https://en.wikipedia.org/wiki/Logic) @ [Carnegie Mellon University](https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Carnegie_Mellon_University) - PREPARATION <2021>
 
-**PhD candidate** in [Cognitive Computing](https://en.wikipedia.org/wiki/Cognitive_computing) @ [Université TELUQ](https://en.wikipedia.org/wiki/Universit%C3%A9_T%C3%89LUQ) & [Université du Québec à Montréal (UQAM)](https://en.wikipedia.org/wiki/Universit%C3%A9_du_Qu%C3%A9bec_%C3%A0_Montr%C3%A9al) - 3.86/4.3 ~ 90 % <2012 - 2019>
+**PhD candidate** in [Artificial Intelligence - Cognitive Computing](https://en.wikipedia.org/wiki/Cognitive_computing) @ [Université TELUQ](https://en.wikipedia.org/wiki/Universit%C3%A9_T%C3%89LUQ) & [Université du Québec à Montréal (UQAM)](https://en.wikipedia.org/wiki/Universit%C3%A9_du_Qu%C3%A9bec_%C3%A0_Montr%C3%A9al) - 3.86/4.3 ~ 90 % <2012 - 2019>
 
 **PhD candidate** in [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing) @ [Université de Franche-Comté (UFC)](https://en.wikipedia.org/wiki/University_of_Franche-Comt%C3%A9) <2013 - 2019>
 
